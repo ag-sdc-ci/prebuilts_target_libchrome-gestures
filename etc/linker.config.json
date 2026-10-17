@@ -1,0 +1,13 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libchrome-gestures.a-x86_64-v2.so",
+		    "libdummy_binary_libchrome-gestures.a.so",
+		    "libdummy_ext_libchrome_gestures-x86_64-v2.so",
+		    "libdummy_ext_libchrome_gestures.so",
+		    "libdummy_headers_ext_libchrome_gestures-x86_64-v2.so",
+		    "libdummy_headers_ext_libchrome_gestures.so",
+		    "libdummy_shared_libchrome-gestures-x86_64-v2.so",
+		    "libdummy_shared_libchrome-gestures.so"
+	],
+	"visible": true
+}
